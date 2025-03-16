@@ -1,0 +1,9 @@
+{
+  "entries": [
+    {"url": "s3://openalex/data/domains/updated_date=2024-04-01/part_000.gz", "meta": { "content_length": 1191, "record_count": 4 } }
+  ],
+  "meta": {
+    "content_length": 1191,
+    "record_count": 4
+  }
+}

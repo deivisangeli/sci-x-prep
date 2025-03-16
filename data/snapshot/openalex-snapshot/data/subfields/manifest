@@ -1,0 +1,15 @@
+{
+  "entries": [
+    {"url": "s3://openalex/data/subfields/updated_date=2025-02-24/part_000.gz", "meta": { "content_length": 120322, "record_count": 228 } },
+    {"url": "s3://openalex/data/subfields/updated_date=2024-09-02/part_000.gz", "meta": { "content_length": 766, "record_count": 1 } },
+    {"url": "s3://openalex/data/subfields/updated_date=2024-12-30/part_000.gz", "meta": { "content_length": 609, "record_count": 1 } },
+    {"url": "s3://openalex/data/subfields/updated_date=2024-11-18/part_000.gz", "meta": { "content_length": 702, "record_count": 1 } },
+    {"url": "s3://openalex/data/subfields/updated_date=2024-12-16/part_000.gz", "meta": { "content_length": 638, "record_count": 1 } },
+    {"url": "s3://openalex/data/subfields/updated_date=2024-04-01/part_000.gz", "meta": { "content_length": 11428, "record_count": 19 } },
+    {"url": "s3://openalex/data/subfields/updated_date=2024-03-18/part_000.gz", "meta": { "content_length": 1580, "record_count": 1 } }
+  ],
+  "meta": {
+    "content_length": 136045,
+    "record_count": 252
+  }
+}

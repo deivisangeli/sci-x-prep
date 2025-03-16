@@ -1,0 +1,10 @@
+{
+  "entries": [
+    {"url": "s3://openalex/data/fields/updated_date=2025-02-24/part_000.gz", "meta": { "content_length": 2337, "record_count": 8 } },
+    {"url": "s3://openalex/data/fields/updated_date=2024-04-01/part_000.gz", "meta": { "content_length": 5415, "record_count": 18 } }
+  ],
+  "meta": {
+    "content_length": 7752,
+    "record_count": 26
+  }
+}
